@@ -1,4 +1,10 @@
 # hosts
+
+![Github file size](https://img.shields.io/github/size/chrisjudk/hosts/hosts.svg?label=hosts+file+size)](github.com/chrisjudk/hosts/blob/master/hosts)
+[![License](https://img.shields.io/github/license/chrisjudk/hosts.svg)](https://github.com/chrisjudk/hosts/blob/master/LICENSE)
+[![last commit](https://img.shields.ip/github/last-commit/chrisjudk/hosts.svg)](https://github.com/chrisjudk/hosts/commits/master)
+[![commit activity](https://img.shields.ip/github/commit-activity/y/chrisjudk/hosts.svg)](https://github.com/chrisjudk/hosts/graphs/commit-activity)
+
 This is a list of hosts I have found to be used for ads, malware, etc.
 ## Installation
 ### HOSTS file
