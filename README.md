@@ -22,6 +22,7 @@ curl -sSL https://raw.githubusercontent.com/chrisjudk/hosts/master/pihole/whitel
 ## Credits and copyright notices
 ### Github users
 @anudeepND
+
 @PromoFaux
 
 ### Copyright notices
@@ -30,4 +31,5 @@ Copyright (c) 2018 Anudeep ND <anudeep@protonmail.com>
 
 ### Links
 [Anudeep's whitelist](https://github.com/anudeepND/whitelist)
+
 [Commonly Whitelisted Domains](https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212)
