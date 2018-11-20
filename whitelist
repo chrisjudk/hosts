@@ -42,6 +42,7 @@ cdn.vidible.tv
 cdn2.optimizely.com
 cdn3.optimizely.com
 cdnjs.cloudflare.com
+cds.d2s7q6s2.hwcdn.net
 cert.mgt.xboxlive.com
 cf-st.sc-cdn.net
 chrisjudk.me
@@ -62,6 +63,7 @@ crisp.chat
 cs9.wac.phicdn.net
 cse.google.com
 ctldl.windowsupdate.com
+cy2.settings.data.microsoft.com.akadns.net
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 dashboard.plex.tv
@@ -86,7 +88,9 @@ ec-ns.sascdn.com
 ecn.dev.virtualearth.net
 edge.api.brightcove.com
 eds.xboxlive.com
+emdl.ws.microsoft.com
 events.gfe.nvidia.com
+fg.download.windowsupdate.com.c.footprint.net
 filament.io
 fonts.gstatic.com
 forums.sonarr.tv
@@ -117,6 +121,7 @@ i1.ytimg.com
 icanhazip.com
 icloud.com
 imagesak.secureserver.net
+img-prod-cms-rt-microsoft-com.akamaized.net
 img.vidible.tv
 imgix.net
 imgs.xkcd.com
@@ -150,6 +155,7 @@ msftncsi.com
 my.plexapp.com
 netflix.com
 newgrounds.com
+nexus.officeapps.live.com
 nexusrules.officeapps.live.com
 nine.plugins.plexapp.com
 no-ip.com
@@ -186,6 +192,7 @@ products.office.com
 proxy.plex.bz
 proxy.plex.tv
 proxy02.pop.ord.plex.bz
+pti.store.microsoft.com
 pubsub.plex.bz
 pubsub.plex.tv
 rapidvideo.com
@@ -223,6 +230,9 @@ staging.plex.tv
 status.plex.tv
 steamcommunity-a.akamaihd.net
 steamstatic.com
+store-images.microsoft.com
+storecatalogrevocation.storequality.microsoft.com
+storeedgefd.dsx.mp.microsoft.com
 support.coinbase.com
 support.microsoft.com
 support.mozilla.org
@@ -283,6 +293,7 @@ www.icloud.com
 www.jdoqocy.com
 www.linuxtracker.org
 www.literotica.com
+www.msftconnecttest.com/connecttest.txt
 www.msftncsi.com
 www.netflix.com
 www.no-ip.com
@@ -305,6 +316,7 @@ xflight.xboxlive.com
 xhamster.com
 xkms.xbolive.com
 xsts.auth.xboxlive.com
+xvideos.com
 yahoo.com
 youtu.be
 youtube-nocookie.com
