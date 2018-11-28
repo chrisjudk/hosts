@@ -1,6 +1,6 @@
 {
   "src": {
-    "tagName": "v%s",
+    "tagName": "v${version}",
     "commitArgs": "-S",
     "tagArgs": "-S"
   },
