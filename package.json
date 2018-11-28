@@ -1,0 +1,20 @@
+{
+  "name": "hosts",
+  "version": "1.0.1",
+  "scripts": {
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisjudk/hosts.git"
+  },
+  "author": "Chris Judkins (https://github.com/chrisjudk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisjudk/hosts/issues"
+  },
+  "homepage": "https://github.com/chrisjudk/hosts#readme",
+  "devDependencies": {
+    "release-it": "^8.1.0"
+  }
+}
