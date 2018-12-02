@@ -137,6 +137,7 @@
 0.0.0.0 ds.serving-sys.com
 0.0.0.0 dzc-metrics.mzstatic.com
 0.0.0.0 ec.atdmt.com
+0.0.0.0 ensighten.com
 0.0.0.0 fe2.update.microsoft.com.akadns.net
 0.0.0.0 feedback.microsoft-hohm.com
 0.0.0.0 feedback.search.microsoft.com
@@ -171,6 +172,7 @@
 0.0.0.0 jira.unikrn.com
 0.0.0.0 js.moatads.com
 0.0.0.0 kermit.pinion.gg
+0.0.0.0 krxd.net
 0.0.0.0 lb1.www.ms.akadns.net
 0.0.0.0 legacy.pinion.gg
 0.0.0.0 live.rads.msn.com
