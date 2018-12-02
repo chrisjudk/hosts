@@ -21,9 +21,9 @@ curl -sSL https://raw.githubusercontent.com/chrisjudk/hosts/master/pihole/whitel
 
 ## Credits and copyright notices
 ### Github users
-@[anudeepND](https://github.com/anudeepND)
+[@anudeepND](https://github.com/anudeepND)
 
-@[PromoFaux](https://github.com/PromoFaux)
+[@PromoFaux](https://github.com/PromoFaux)
 
 ### Copyright notices
 
