@@ -59,6 +59,7 @@ connectivitycheck.gstatic.com
 constitution.org
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
+creative.ak.fbcdn.net
 crisp.chat
 cs9.wac.phicdn.net
 cse.google.com
@@ -90,6 +91,18 @@ edge.api.brightcove.com
 eds.xboxlive.com
 emdl.ws.microsoft.com
 events.gfe.nvidia.com
+external-lhr0-1.xx.fbcdn.net
+external-lhr1-1.xx.fbcdn.net
+external-lhr10-1.xx.fbcdn.net
+external-lhr2-1.xx.fbcdn.net
+external-lhr3-1.xx.fbcdn.net
+external-lhr4-1.xx.fbcdn.net
+external-lhr5-1.xx.fbcdn.net
+external-lhr6-1.xx.fbcdn.net
+external-lhr7-1.xx.fbcdn.net
+external-lhr8-1.xx.fbcdn.net
+external-lhr9-1.xx.fbcdn.net
+fbcdn-creative-a.akamaihd.net
 fg.download.windowsupdate.com.c.footprint.net
 filament.io
 fonts.gstatic.com
@@ -215,6 +228,7 @@ s3.symcb.com
 s4.symcb.com
 s5.symcb.com
 sa.symcb.com
+scontent-lhr3-1.xx.fbcdn.net
 secure.avangate.com
 secure.brightcove.com
 secure.surveymonkey.com
@@ -241,6 +255,7 @@ support.mozilla.org
 surveymonkey.com
 synology.com
 sysctl.org
+s{1..5}.symcb.com
 t.co
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
