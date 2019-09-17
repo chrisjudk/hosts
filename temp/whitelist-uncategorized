@@ -38,7 +38,6 @@ g.live.com
 g2a.com
 gcs.sc-cdn.net
 geo-prod.do.dsp.mp.microsoft.com
-geo3.ggpht.com
 geover-prod.do.dsp.mp.microsoft.com
 gfwsl.geforce.com
 giphy.com
@@ -52,8 +51,6 @@ hosts-file.net
 hostsfile.mine.nu
 hostsfile.org
 i.s-microsoft.com
-i.ytimg.com
-i1.ytimg.com
 icanhazip.com
 icloud.com
 imagesak.secureserver.net
@@ -85,7 +82,6 @@ microsoftonline.com
 motherless.com
 msftncsi.com
 my.plexapp.com
-netflix.com
 newgrounds.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
@@ -109,7 +105,7 @@ outlook.live.com
 outlook.office365.com
 pentest-tools.com
 pgl.yoyo.org
-phncdn.com
+phncdn.com #adult
 pinterest.com
 piratecams.com
 placehold.it
@@ -195,8 +191,6 @@ v.shopify.com
 v10.events.data.microsoft.com
 v10.vortex-win.data.microsoft.com
 v20.vortex-win.data.microsoft.com
-videos.vidible.tv
-vimeo.com
 weeklyad.target.com
 weeklyad.target.com.edgesuite.net
 widget-cdn.rpxnow.com
@@ -236,9 +230,5 @@ xflight.xboxlive.com
 xkms.xbolive.com
 xsts.auth.xboxlive.com
 yahoo.com
-youtu.be
-youtube-nocookie.com
-youtube.com
 yt3.ggpht.com
 zeustracker.abuse.ch
-nrdp.nccp.netflix.com
