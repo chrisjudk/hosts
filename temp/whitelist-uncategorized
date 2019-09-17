@@ -1,24 +1,24 @@
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
-delivery.vidible.tv
-dev.virtualearth.net
-device.auth.xboxlive.com
-display.ugc.bazaarvoice.com
-displaycatalog.mp.microsoft.com
-dl.delivery.mp.microsoft.com
+delivery.vidible.tv #streaming
+dev.virtualearth.net #MS bing maps
+device.auth.xboxlive.com #MS xbox
+display.ugc.bazaarvoice.com #retailer chat
+displaycatalog.mp.microsoft.com #MS 
+dl.delivery.mp.microsoft.com #MS
 dl.dropbox.com
 dl.dropboxusercontent.com
-dns.msftncsi.com
-download.sonarr.tv
-drift.com
-driftt.com
+dns.msftncsi.com #MS
+download.sonarr.tv #https://github.com/Sonarr/Sonarr
+drift.com #retailer chat
+driftt.com #retailer chat
 dynupdate.no-ip.com
-ea.com
-ec-ns.sascdn.com
-ecn.dev.virtualearth.net
+ea.com #Gaming
+ec-ns.sascdn.com #https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212 Bild de german news
+ecn.dev.virtualearth.net #MS bing maps
 edge.api.brightcove.com
-eds.xboxlive.com
-emdl.ws.microsoft.com
+eds.xboxlive.com #MS xbox
+emdl.ws.microsoft.com #ms
 events.gfe.nvidia.com
 external-lhr0-1.xx.fbcdn.net
 external-lhr1-1.xx.fbcdn.net
