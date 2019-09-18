@@ -6,8 +6,8 @@ device.auth.xboxlive.com #MS xbox
 display.ugc.bazaarvoice.com #retailer chat
 displaycatalog.mp.microsoft.com #MS 
 dl.delivery.mp.microsoft.com #MS
-dl.dropbox.com
-dl.dropboxusercontent.com
+dl.dropbox.com #dropbox
+dl.dropboxusercontent.com #dropbox
 dns.msftncsi.com #MS
 download.sonarr.tv #https://github.com/Sonarr/Sonarr
 drift.com #retailer chat
