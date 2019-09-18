@@ -1,44 +1,44 @@
 d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 delivery.vidible.tv #streaming
-dev.virtualearth.net #MS bing maps
-device.auth.xboxlive.com #MS xbox
+dev.virtualearth.net #MS bing-maps
+device.auth.xboxlive.com #ms/xbox
 display.ugc.bazaarvoice.com #retailer chat
-displaycatalog.mp.microsoft.com #MS 
-dl.delivery.mp.microsoft.com #MS
-dl.dropbox.com #dropbox
-dl.dropboxusercontent.com #dropbox
+displaycatalog.mp.microsoft.com #MS/winstore
+dl.delivery.mp.microsoft.com #MS/windows-updates
+dl.dropbox.com #file-sharing
+dl.dropboxusercontent.com #file-sharing
 dns.msftncsi.com #MS
 download.sonarr.tv #https://github.com/Sonarr/Sonarr
 drift.com #retailer chat
 driftt.com #retailer chat
 dynupdate.no-ip.com
 ea.com #Gaming
-ec-ns.sascdn.com #https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212 Bild de german news
-ecn.dev.virtualearth.net #MS bing maps
-edge.api.brightcove.com
-eds.xboxlive.com #MS xbox
-emdl.ws.microsoft.com #ms
-events.gfe.nvidia.com
-external-lhr0-1.xx.fbcdn.net
-external-lhr1-1.xx.fbcdn.net
-external-lhr10-1.xx.fbcdn.net
-external-lhr2-1.xx.fbcdn.net
-external-lhr3-1.xx.fbcdn.net
-external-lhr4-1.xx.fbcdn.net
-external-lhr5-1.xx.fbcdn.net
-external-lhr6-1.xx.fbcdn.net
-external-lhr7-1.xx.fbcdn.net
-external-lhr8-1.xx.fbcdn.net
-external-lhr9-1.xx.fbcdn.net
-fbcdn-creative-a.akamaihd.net
-fg.download.windowsupdate.com.c.footprint.net
+ec-ns.sascdn.com #news
+ecn.dev.virtualearth.net #MS bing-maps
+edge.api.brightcove.com #news
+eds.xboxlive.com #MS/xbox
+emdl.ws.microsoft.com #ms/winstore
+events.gfe.nvidia.com #misc
+external-lhr0-1.xx.fbcdn.net #social/facebook
+external-lhr1-1.xx.fbcdn.net #social/facebook
+external-lhr10-1.xx.fbcdn.net #social/facebook
+external-lhr2-1.xx.fbcdn.net #social/facebook
+external-lhr3-1.xx.fbcdn.net #social/facebook
+external-lhr4-1.xx.fbcdn.net #social/facebook
+external-lhr5-1.xx.fbcdn.net #social/facebook
+external-lhr6-1.xx.fbcdn.net #social/facebook
+external-lhr7-1.xx.fbcdn.net #social/facebook
+external-lhr8-1.xx.fbcdn.net #social/facebook
+external-lhr9-1.xx.fbcdn.net #social/facebook
+fbcdn-creative-a.akamaihd.net #social/facebook
+fg.download.windowsupdate.com.c.footprint.net #MS/windows-updates
 forums.sonarr.tv
 g.live.com
 g2a.com
 gcs.sc-cdn.net
-geo-prod.do.dsp.mp.microsoft.com
-geover-prod.do.dsp.mp.microsoft.com
+geo-prod.do.dsp.mp.microsoft.com #MS/windows-updates
+geover-prod.do.dsp.mp.microsoft.com #MS/windows-updates
 gfwsl.geforce.com
 giphy.com
 github.com
@@ -50,59 +50,58 @@ hls.ted.com
 hosts-file.net
 hostsfile.mine.nu
 hostsfile.org
-i.s-microsoft.com
+i.s-microsoft.com #ms/winstore
 icanhazip.com
 icloud.com
 imagesak.secureserver.net
-img-prod-cms-rt-microsoft-com.akamaized.net
+img-prod-cms-rt-microsoft-com.akamaized.net #ms/winstore
 img.vidible.tv
 imgix.net
 imgs.xkcd.com
 intercom.io
-ipv6.msftncsi.com
+ipv6.msftncsi.com #ms
 itunes.apple.com
 jquery.com
 jsdelivr.net
 keystone.mwbsys.com
 lastfm-img2.akamaized.net
-licensing.xboxlive.com
+licensing.xboxlive.com #ms/xbox
 linkedin.com
 linuxtracker.org
-live.com
+live.com #ms
 login.aliexpress.com
-login.live.com
-login.microsoftonline.com
-m.hotmail.com
+login.live.com #ms
+login.microsoftonline.com #ms
+m.hotmail.com #ms
 m.weeklyad.target.com
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
 meta.plex.tv
-microsoft.com
-microsoftonline.com
+microsoft.com #ms
+microsoftonline.com #ms
 motherless.com
-msftncsi.com
+www.msftncsi.com #ms
 my.plexapp.com
 newgrounds.com
-nexus.officeapps.live.com
-nexusrules.officeapps.live.com
+nexus.officeapps.live.com #ms/office365
+nexusrules.officeapps.live.com #ms/office365
 nine.plugins.plexapp.com
 no-ip.com
 node.plexapp.com
-notify.xboxlive.com
+notify.xboxlive.com #ms/xbox
 ns1.dropbox.com
 ns2.dropbox.com
 o1.email.plex.tv
 o2.sg0.plex.tv
 ocsp.apple.com
-office.com
-office.net
-office365.com
-officeclient.microsoft.com
+office.com #ms/office365
+office365.com #ms/office365
+officeclient.microsoft.com #ms/office365
 om.cbsi.com
-onedrive.live.com
+onedrive.live.com #ms/onedrive
 openload.co
-outlook.live.com
-outlook.office365.com
+outlook.live.com #ms/outlook
+outlook.office365.com #ms/outlook
 pentest-tools.com
 pgl.yoyo.org
 phncdn.com #adult
@@ -112,13 +111,13 @@ placehold.it
 placeholdit.imgix.net
 players.brightcove.net
 plex.tv
-pricelist.skype.com
-prod.telemetry.ros.rockstargames.com
-products.office.com
+pricelist.skype.com #ms/skype
+prod.telemetry.ros.rockstargames.com #gaming/gta5
+products.office.com #ms/office
 proxy.plex.bz
 proxy.plex.tv
 proxy02.pop.ord.plex.bz
-pti.store.microsoft.com
+pti.store.microsoft.com #ms/winstore
 pubsub.plex.bz
 pubsub.plex.tv
 push.services.mozilla.com
@@ -126,7 +125,7 @@ rapidvideo.com
 raw.githubusercontent.com
 reddit.com
 rover.ebay.com
-s.gateway.messenger.live.com
+s.gateway.messenger.live.com #ms
 s.marketwatch.com
 s.shopify.com
 s.youtube.com
@@ -140,34 +139,34 @@ s3.symcb.com
 s4.symcb.com
 s5.symcb.com
 sa.symcb.com
-scontent-lhr3-1.xx.fbcdn.net
+scontent-lhr3-1.xx.fbcdn.net #social/facebook
 secure.avangate.com
 secure.brightcove.com
 secure.surveymonkey.com
 services.sonarr.tv
-settings-win.data.microsoft.com
+settings-win.data.microsoft.com #ms
 sharepoint.com
 skyhook.sonarr.tv
-skype.com
+skype.com #ms/skype
 someonewhocares.org
 spclient.wg.spotify.com
 ssl.p.jwpcdn.com
 staging.plex.tv
 status.plex.tv
-steamcommunity-a.akamaihd.net
-steamstatic.com
-store-images.microsoft.com
-storecatalogrevocation.storequality.microsoft.com
-storeedgefd.dsx.mp.microsoft.com
+steamcommunity-a.akamaihd.net #gaming/steam
+steamstatic.com #gaming/steam
+store-images.microsoft.com #ms/store
+storecatalogrevocation.storequality.microsoft.com #ms/store
+storeedgefd.dsx.mp.microsoft.com #ms/store
 support.coinbase.com
-support.microsoft.com
+support.microsoft.com #ms
 support.mozilla.org
 surveymonkey.com
 synology.com
 sysctl.org
 s{1..5}.symcb.com
-t0.ssl.ak.dynamic.tiles.virtualearth.net
-t0.ssl.ak.tiles.virtualearth.net
+t0.ssl.ak.dynamic.tiles.virtualearth.net #ms/bing-maps
+t0.ssl.ak.tiles.virtualearth.net #ms/bing-maps
 tags.literotica.com
 tawk.to
 tedcdn.com
@@ -178,7 +177,7 @@ title.auth.xboxlive.com
 title.mgt.xboxlive.com
 tomshardware.com
 ts.chrisjudk.me
-tsfe.trafficshaping.dsp.mp.microsoft.com
+tsfe.trafficshaping.dsp.mp.microsoft.com #ms/windows-update
 tvdb2.plex.tv
 tvthemes.plexapp.com
 twimg.com
@@ -188,14 +187,11 @@ unsplash.com
 updates.push.services.mozilla.com
 v.firebog.net
 v.shopify.com
-v10.events.data.microsoft.com
-v10.vortex-win.data.microsoft.com
-v20.vortex-win.data.microsoft.com
 weeklyad.target.com
 weeklyad.target.com.edgesuite.net
 widget-cdn.rpxnow.com
 wikipedia.org
-win10.ipv6.microsoft.com
+win10.ipv6.microsoft.com #ms
 winhelp2002.mvps.org
 wordpress.com
 wp.com
@@ -211,8 +207,8 @@ www.icloud.com
 www.jdoqocy.com
 www.linuxtracker.org
 www.literotica.com
-www.msftconnecttest.com
-www.msftncsi.com
+www.msftconnecttest.com #ms
+www.msftncsi.com #ms
 www.netflix.com
 www.no-ip.com
 www.ojrq.net
@@ -222,13 +218,13 @@ www.rapidvideo.com
 www.solaredge.com
 www.synology.com
 www.twitter.com
-www.xboxlive.com
+www.xboxlive.com #ms/xbox
 www.youtube-nocookie.com
-xbox.ipv6.microsoft.com
-xboxexperiencesprod.experimentation.xboxlive.com
-xflight.xboxlive.com
-xkms.xbolive.com
-xsts.auth.xboxlive.com
+xbox.ipv6.microsoft.com #ms/xbox
+xboxexperiencesprod.experimentation.xboxlive.com #ms/xbox
+xflight.xboxlive.com #ms/xbox
+xkms.xboxlive.com #ms/xbox
+xsts.auth.xboxlive.com #ms/xbox
 yahoo.com
 yt3.ggpht.com
 zeustracker.abuse.ch
