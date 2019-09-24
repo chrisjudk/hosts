@@ -1,16 +1,16 @@
-d2c8v52ll5s99u.cloudfront.net
-d2gatte9o95jao.cloudfront.net
+d2c8v52ll5s99u.cloudfront.net #streaming arstechnica, wired, vogue, newyorker
+d2gatte9o95jao.cloudfront.net #streaming arstechnica
 delivery.vidible.tv #streaming
 display.ugc.bazaarvoice.com #retailer chat
 dl.dropbox.com #file-sharing
 dl.dropboxusercontent.com #file-sharing
-download.sonarr.tv #https://github.com/Sonarr/Sonarr
+download.sonarr.tv #streaming/kodi
 drift.com #retailer chat
 driftt.com #retailer chat
-dynupdate.no-ip.com
+dynupdate.no-ip.com #misc
 ec-ns.sascdn.com #news
-edge.api.brightcove.com #news
-events.gfe.nvidia.com #misc
+edge.api.brightcove.com #streaming/news
+events.gfe.nvidia.com #gaming/nvidia
 external-lhr0-1.xx.fbcdn.net #social/facebook
 external-lhr1-1.xx.fbcdn.net #social/facebook
 external-lhr10-1.xx.fbcdn.net #social/facebook
@@ -23,28 +23,28 @@ external-lhr7-1.xx.fbcdn.net #social/facebook
 external-lhr8-1.xx.fbcdn.net #social/facebook
 external-lhr9-1.xx.fbcdn.net #social/facebook
 fbcdn-creative-a.akamaihd.net #social/facebook
-forums.sonarr.tv
-g.live.com
-g2a.com
-gcs.sc-cdn.net
-gfwsl.geforce.com
-giphy.com
-github.com
-github.io
-gravatar.com
-gsp1.apple.com
-hls.ted.com
-hosts-file.net
-hostsfile.mine.nu
-hostsfile.org
-icanhazip.com
-icloud.com
+forums.sonarr.tv #streaming/kodi
+g.live.com #ms
+g2a.com #gaming
+gcs.sc-cdn.net #social/snapchat & cdn
+gfwsl.geforce.com #gaming/nvidia
+giphy.com #image-sharing
+github.com #github
+github.io #github
+gravatar.com #misc
+gsp1.apple.com #apple/iPhone
+hls.ted.com #streaming
+hosts-file.net #hostfiles
+hostsfile.mine.nu #hostfiles
+hostsfile.org #hostfiles
+icanhazip.com #ip-resolvers
+icloud.com #apple/icloud
 imagesak.secureserver.net
-img.vidible.tv
+img.vidible.tv #streaming/kodi
 imgix.net
 imgs.xkcd.com
 intercom.io
-itunes.apple.com
+itunes.apple.com #apple/itunes
 jquery.com
 jsdelivr.net
 keystone.mwbsys.com
@@ -53,8 +53,8 @@ linkedin.com
 linuxtracker.org
 login.aliexpress.com
 m.weeklyad.target.com
-meta-db-worker02.pop.ric.plex.bz
-meta.plex.bz
+meta-db-worker02.pop.ric.plex.bz #streaming/kodi
+meta.plex.bz #streaming/kodi
 meta.plex.tv
 motherless.com
 my.plexapp.com
@@ -76,15 +76,15 @@ pinterest.com
 piratecams.com
 placehold.it
 placeholdit.imgix.net
-players.brightcove.net
-plex.tv
-proxy.plex.bz
-proxy.plex.tv
-proxy02.pop.ord.plex.bz
-pubsub.plex.bz
-pubsub.plex.tv
+players.brightcove.net #streaming/news
+plex.tv #streaming/kodi
+proxy.plex.bz #streaming/kodi
+proxy.plex.tv #streaming/kodi
+proxy02.pop.ord.plex.bz #streaming/kodi
+pubsub.plex.bz #streaming/kodi
+pubsub.plex.tv #streaming/kodi
 push.services.mozilla.com
-rapidvideo.com
+rapidvideo.com #streaming/kodi
 raw.githubusercontent.com
 reddit.com
 rover.ebay.com
@@ -108,7 +108,7 @@ secure.surveymonkey.com
 services.sonarr.tv
 sharepoint.com
 skyhook.sonarr.tv
-someonewhocares.org
+someonewhocares.org 
 spclient.wg.spotify.com
 ssl.p.jwpcdn.com
 staging.plex.tv
