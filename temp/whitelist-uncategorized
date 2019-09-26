@@ -1,13 +1,13 @@
 d2c8v52ll5s99u.cloudfront.net #streaming arstechnica, wired, vogue, newyorker
 d2gatte9o95jao.cloudfront.net #streaming arstechnica
 delivery.vidible.tv #streaming
-display.ugc.bazaarvoice.com #retailer chat
+display.ugc.bazaarvoice.com #retailer-chat
 dl.dropbox.com #file-sharing
 dl.dropboxusercontent.com #file-sharing
 download.sonarr.tv #streaming/kodi
-drift.com #retailer chat
-driftt.com #retailer chat
-dynupdate.no-ip.com #misc
+drift.com #retailer-chat
+driftt.com #retailer-chat
+dynupdate.no-ip.com #ddns
 ec-ns.sascdn.com #news
 edge.api.brightcove.com #streaming/news
 events.gfe.nvidia.com #gaming/nvidia
@@ -39,50 +39,50 @@ hostsfile.mine.nu #hostfiles
 hostsfile.org #hostfiles
 icanhazip.com #ip-resolvers
 icloud.com #apple/icloud
-imagesak.secureserver.net
+imagesak.secureserver.net #websites/buttons used by GoDaddy
 img.vidible.tv #streaming/kodi
-imgix.net
-imgs.xkcd.com
-intercom.io
+imgix.net #image-sharing
+imgs.xkcd.com #image-sharing
+intercom.io #retailer-chat
 itunes.apple.com #apple/itunes
-jquery.com
-jsdelivr.net
-keystone.mwbsys.com
-lastfm-img2.akamaized.net
-linkedin.com
-linuxtracker.org
-login.aliexpress.com
-m.weeklyad.target.com
-meta-db-worker02.pop.ric.plex.bz #streaming/kodi
-meta.plex.bz #streaming/kodi
-meta.plex.tv
-motherless.com
-my.plexapp.com
-newgrounds.com
-nine.plugins.plexapp.com
-no-ip.com
-node.plexapp.com
-ns1.dropbox.com
-ns2.dropbox.com
-o1.email.plex.tv
-o2.sg0.plex.tv
-ocsp.apple.com
-om.cbsi.com
-openload.co
+jquery.com #webscripts
+jsdelivr.net #webscripts
+keystone.mwbsys.com #malwarebytes
+lastfm-img2.akamaized.net #image-sharing
+linkedin.com #social/linkedin
+linuxtracker.org #linux used for torrenting linux distros
+login.aliexpress.com #shopping
+m.weeklyad.target.com #shopping
+meta-db-worker02.pop.ric.plex.bz #streaming/plex
+meta.plex.bz #streaming/plex
+meta.plex.tv #streaming/plex
+motherless.com #adult
+my.plexapp.com #streaming/plex
+newgrounds.com #file-sharing
+nine.plugins.plexapp.com #streaming/plex
+no-ip.com #ddns
+node.plexapp.com #streaming/plex
+ns1.dropbox.com #file-sharing
+ns2.dropbox.com #file-sharing
+o1.email.plex.tv #streaming/plex
+o2.sg0.plex.tv #streaming/plex
+ocsp.apple.com #apple/misc
+om.cbsi.com #news
+openload.co #streaming/kodi
 pentest-tools.com
 pgl.yoyo.org
 phncdn.com #adult
-pinterest.com
+pinterest.com #social/pinterest
 piratecams.com
-placehold.it
-placeholdit.imgix.net
+placehold.it #image-sharing
+placeholdit.imgix.net #image-sharing
 players.brightcove.net #streaming/news
-plex.tv #streaming/kodi
-proxy.plex.bz #streaming/kodi
-proxy.plex.tv #streaming/kodi
-proxy02.pop.ord.plex.bz #streaming/kodi
-pubsub.plex.bz #streaming/kodi
-pubsub.plex.tv #streaming/kodi
+plex.tv #streaming/plex
+proxy.plex.bz #streaming/plex
+proxy.plex.tv #streaming/plex
+proxy02.pop.ord.plex.bz #streaming/plex
+pubsub.plex.bz #streaming/plex
+pubsub.plex.tv #streaming/plex
 push.services.mozilla.com
 rapidvideo.com #streaming/kodi
 raw.githubusercontent.com
@@ -155,7 +155,7 @@ www.jdoqocy.com
 www.linuxtracker.org
 www.literotica.com
 www.netflix.com
-www.no-ip.com
+www.no-ip.com #ddns
 www.ojrq.net
 www.oocities.org
 www.plex.tv
