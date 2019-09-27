@@ -33,13 +33,13 @@ github.com #github
 github.io #github
 gravatar.com #misc
 gsp1.apple.com #apple/iPhone
-hls.ted.com #streaming
+hls.ted.com #streaming/ted
 hosts-file.net #hostfiles
 hostsfile.mine.nu #hostfiles
 hostsfile.org #hostfiles
 icanhazip.com #ip-resolvers
 icloud.com #apple/icloud
-imagesak.secureserver.net #websites/buttons used by GoDaddy
+imagesak.secureserver.net #websites/buttons //used by GoDaddy
 img.vidible.tv #streaming/kodi
 imgix.net #image-sharing
 imgs.xkcd.com #image-sharing
@@ -50,7 +50,7 @@ jsdelivr.net #webscripts
 keystone.mwbsys.com #malwarebytes
 lastfm-img2.akamaized.net #image-sharing
 linkedin.com #social/linkedin
-linuxtracker.org #linux used for torrenting linux distros
+linuxtracker.org #linux //used for torrenting linux distros
 login.aliexpress.com #shopping
 m.weeklyad.target.com #shopping
 meta-db-worker02.pop.ric.plex.bz #streaming/plex
@@ -69,11 +69,11 @@ o2.sg0.plex.tv #streaming/plex
 ocsp.apple.com #apple/misc
 om.cbsi.com #news
 openload.co #streaming/kodi
-pentest-tools.com
-pgl.yoyo.org
+pentest-tools.com #misc/pentesting
+pgl.yoyo.org #hostfiles
 phncdn.com #adult
 pinterest.com #social/pinterest
-piratecams.com
+piratecams.com #adult
 placehold.it #image-sharing
 placeholdit.imgix.net #image-sharing
 players.brightcove.net #streaming/news
@@ -83,50 +83,49 @@ proxy.plex.tv #streaming/plex
 proxy02.pop.ord.plex.bz #streaming/plex
 pubsub.plex.bz #streaming/plex
 pubsub.plex.tv #streaming/plex
-push.services.mozilla.com
+push.services.mozilla.com #misc
 rapidvideo.com #streaming/kodi
-raw.githubusercontent.com
-reddit.com
-rover.ebay.com
-s.marketwatch.com
-s.shopify.com
-s.youtube.com
-s.ytimg.com
-s1.symcb.com
+raw.githubusercontent.com #github
+reddit.com #social/reddit
+rover.ebay.com #shopping
+s.marketwatch.com #misc //stock market
+s.shopify.com #shopping
+s.youtube.com #google/youtube
+s.ytimg.com #google/youtube
+s1.symcb.com #ms/skype
 s1.wp.com
-s2.symcb.com
-s2.youtube.com
+s2.symcb.com #ms/skype
+s2.youtube.com #google/youtube
 s3.amazonaws.com
-s3.symcb.com
-s4.symcb.com
-s5.symcb.com
-sa.symcb.com
+s3.symcb.com #ms/skype
+s4.symcb.com #ms/skype
+s5.symcb.com #ms/skype
+sa.symcb.com #ms/skype
 scontent-lhr3-1.xx.fbcdn.net #social/facebook
-secure.avangate.com
-secure.brightcove.com
-secure.surveymonkey.com
-services.sonarr.tv
-sharepoint.com
-skyhook.sonarr.tv
-someonewhocares.org 
-spclient.wg.spotify.com
-ssl.p.jwpcdn.com
-staging.plex.tv
-status.plex.tv
-support.coinbase.com
-support.mozilla.org
-surveymonkey.com
-synology.com
-sysctl.org
-s{1..5}.symcb.com
-tags.literotica.com
-tawk.to
-tedcdn.com
-themoviedb.com
+secure.avangate.com #shopping
+secure.brightcove.com #streaming/news
+secure.surveymonkey.com #misc
+services.sonarr.tv #streaming/kodi
+sharepoint.com #ms/office
+skyhook.sonarr.tv #streaming/kodi
+someonewhocares.org #hostfiles
+spclient.wg.spotify.com #streaming/spotify
+ssl.p.jwpcdn.com #streaming/plex
+staging.plex.tv #streaming/plex
+status.plex.tv #streaming/plex
+support.coinbase.com #misc
+support.mozilla.org #misc
+surveymonkey.com #misc
+synology.com #misc //router & NAS software
+sysctl.org #hostfiles
+s{1..5}.symcb.com #ms/skype
+tags.literotica.com #adult
+tawk.to #retailer-chat
+tedcdn.com #streaming/ted
+themoviedb.com #streaming/plex
 thepiratebay.org
 thetvdb.com
 tomshardware.com
-ts.chrisjudk.me
 tvdb2.plex.tv
 tvthemes.plexapp.com
 twimg.com
