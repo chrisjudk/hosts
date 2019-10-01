@@ -96,7 +96,7 @@ s1.symcb.com #ms/skype
 s1.wp.com
 s2.symcb.com #ms/skype
 s2.youtube.com #google/youtube
-s3.amazonaws.com
+s3.amazonaws.com #hostfiles //used for https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 s3.symcb.com #ms/skype
 s4.symcb.com #ms/skype
 s5.symcb.com #ms/skype
@@ -123,41 +123,41 @@ tags.literotica.com #adult
 tawk.to #retailer-chat
 tedcdn.com #streaming/ted
 themoviedb.com #streaming/plex
-thepiratebay.org
-thetvdb.com
-tomshardware.com
-tvdb2.plex.tv
-tvthemes.plexapp.com
-twimg.com
-twitter.com
-unsplash.com
-updates.push.services.mozilla.com
-v.firebog.net
-v.shopify.com
-weeklyad.target.com
-weeklyad.target.com.edgesuite.net
-widget-cdn.rpxnow.com
-wikipedia.org
-winhelp2002.mvps.org
-wordpress.com
-wp.com
+thepiratebay.org #torrents
+thetvdb.com #streaming/plex
+tomshardware.com #misc
+tvdb2.plex.tv #streaming/plex
+tvthemes.plexapp.com #streaming/plex
+twimg.com #social/twitter
+twitter.com #social/twitter
+unsplash.com #image-sharing
+updates.push.services.mozilla.com #misc
+v.firebog.net #hostfiles
+v.shopify.com #shopping
+weeklyad.target.com #shopping
+weeklyad.target.com.edgesuite.net #shopping
+widget-cdn.rpxnow.com #news/fox
+wikipedia.org #misc
+winhelp2002.mvps.org #hostfiles
+wordpress.com #misc
+wp.com #misc
 ws.audioscrobbler.com
-www.apple.com
-www.appleiphonecell.com
-www.coinbase.com
-www.constitution.org
+www.apple.com #apple/misc
+www.appleiphonecell.com #apple/iphone
+www.coinbase.com #misc
+www.constitution.org #misc
 www.crazyshit.com
 www.dataplicity.com
-www.icanhazip.com
-www.icloud.com
+www.icanhazip.com #ipresolver
+www.icloud.com #apple/icloud
 www.jdoqocy.com
-www.linuxtracker.org
-www.literotica.com
-www.netflix.com
+www.linuxtracker.org #torrent
+www.literotica.com #adult
+www.netflix.com #streaming
 www.no-ip.com #ddns
 www.ojrq.net
 www.oocities.org
-www.plex.tv
+www.plex.tv #streaming/plex
 www.rapidvideo.com
 www.solaredge.com
 www.synology.com
