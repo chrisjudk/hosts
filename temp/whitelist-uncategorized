@@ -48,7 +48,7 @@ itunes.apple.com #apple/itunes
 jquery.com #webscripts
 jsdelivr.net #webscripts
 keystone.mwbsys.com #malwarebytes
-lastfm-img2.akamaized.net #image-sharing
+lastfm-img2.akamaized.net #lastfm
 linkedin.com #social/linkedin
 linuxtracker.org #linux //used for torrenting linux distros
 login.aliexpress.com #shopping
@@ -93,7 +93,7 @@ s.shopify.com #shopping
 s.youtube.com #google/youtube
 s.ytimg.com #google/youtube
 s1.symcb.com #ms/skype
-s1.wp.com
+s1.wp.com #wordpress
 s2.symcb.com #ms/skype
 s2.youtube.com #google/youtube
 s3.amazonaws.com #hostfiles //used for https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
@@ -139,9 +139,9 @@ weeklyad.target.com.edgesuite.net #shopping
 widget-cdn.rpxnow.com #news/fox
 wikipedia.org #misc
 winhelp2002.mvps.org #hostfiles
-wordpress.com #misc
-wp.com #misc
-ws.audioscrobbler.com
+wordpress.com #wordpress
+wp.com #wordpress
+ws.audioscrobbler.com #lastfm
 www.apple.com #apple/misc
 www.appleiphonecell.com #apple/iphone
 www.coinbase.com #misc
