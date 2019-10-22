@@ -31,7 +31,7 @@ gfwsl.geforce.com #gaming/nvidia
 giphy.com #image-sharing
 github.com #github
 github.io #github
-gravatar.com #misc
+gravatar.com #websites/profile-pictures
 gsp1.apple.com #apple/iPhone
 hls.ted.com #streaming/ted
 hosts-file.net #hostfiles
@@ -45,8 +45,8 @@ imgix.net #image-sharing
 imgs.xkcd.com #image-sharing
 intercom.io #retailer-chat
 itunes.apple.com #apple/itunes
-jquery.com #webscripts
-jsdelivr.net #webscripts
+jquery.com #websites/scripts
+jsdelivr.net #websites/scripts
 keystone.mwbsys.com #malwarebytes
 lastfm-img2.akamaized.net #lastfm
 linkedin.com #social/linkedin
@@ -83,7 +83,7 @@ proxy.plex.tv #streaming/plex
 proxy02.pop.ord.plex.bz #streaming/plex
 pubsub.plex.bz #streaming/plex
 pubsub.plex.tv #streaming/plex
-push.services.mozilla.com #misc
+push.services.mozilla.com #mozilla
 rapidvideo.com #streaming/kodi
 raw.githubusercontent.com #github
 reddit.com #social/reddit
@@ -113,10 +113,10 @@ spclient.wg.spotify.com #streaming/spotify
 ssl.p.jwpcdn.com #streaming/plex
 staging.plex.tv #streaming/plex
 status.plex.tv #streaming/plex
-support.coinbase.com #misc
-support.mozilla.org #misc
+support.coinbase.com #cryptocurrency
+support.mozilla.org #mozilla
 surveymonkey.com #misc
-synology.com #misc //router & NAS software
+synology.com #nas
 sysctl.org #hostfiles
 s{1..5}.symcb.com #ms/skype
 tags.literotica.com #adult
@@ -131,7 +131,7 @@ tvthemes.plexapp.com #streaming/plex
 twimg.com #social/twitter
 twitter.com #social/twitter
 unsplash.com #image-sharing
-updates.push.services.mozilla.com #misc
+updates.push.services.mozilla.com #mozilla
 v.firebog.net #hostfiles
 v.shopify.com #shopping
 weeklyad.target.com #shopping
@@ -144,24 +144,24 @@ wp.com #wordpress
 ws.audioscrobbler.com #lastfm
 www.apple.com #apple/misc
 www.appleiphonecell.com #apple/iphone
-www.coinbase.com #misc
+www.coinbase.com #cryptocurrency
 www.constitution.org #misc
-www.crazyshit.com
-www.dataplicity.com
+www.crazyshit.com #adult
+www.dataplicity.com #linux/remote-desktop
 www.icanhazip.com #ipresolver
 www.icloud.com #apple/icloud
-www.jdoqocy.com
+www.jdoqocy.com #referal
 www.linuxtracker.org #torrent
 www.literotica.com #adult
 www.netflix.com #streaming
 www.no-ip.com #ddns
-www.ojrq.net
-www.oocities.org
+www.ojrq.net #referal
+www.oocities.org #misc
 www.plex.tv #streaming/plex
-www.rapidvideo.com
-www.solaredge.com
-www.synology.com
-www.twitter.com
-www.youtube-nocookie.com
-yahoo.com
-yt3.ggpht.com
+www.rapidvideo.com #streaming/rapidvideo
+www.solaredge.com #misc
+www.synology.com #nas
+www.twitter.com #social/twitter
+www.youtube-nocookie.com #streaming/youtube
+yahoo.com #misc
+yt3.ggpht.com #streaming/youtube
