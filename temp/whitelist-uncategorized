@@ -93,7 +93,7 @@ s.shopify.com #shopping
 s.youtube.com #google/youtube
 s.ytimg.com #google/youtube
 s1.symcb.com #ms/skype
-s1.wp.com #wordpress
+s1.wp.com #websites/wordpress
 s2.symcb.com #ms/skype
 s2.youtube.com #google/youtube
 s3.amazonaws.com #hostfiles //used for https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
@@ -139,8 +139,8 @@ weeklyad.target.com.edgesuite.net #shopping
 widget-cdn.rpxnow.com #news/fox
 wikipedia.org #misc
 winhelp2002.mvps.org #hostfiles
-wordpress.com #wordpress
-wp.com #wordpress
+wordpress.com #websites/wordpress
+wp.com #websites/wordpress
 ws.audioscrobbler.com #lastfm
 www.apple.com #apple/misc
 www.appleiphonecell.com #apple/iphone
