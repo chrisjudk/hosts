@@ -1,6 +1,3 @@
-d2c8v52ll5s99u.cloudfront.net #streaming arstechnica, wired, vogue, newyorker
-d2gatte9o95jao.cloudfront.net #streaming arstechnica
-delivery.vidible.tv #streaming
 display.ugc.bazaarvoice.com #retailer-chat
 dl.dropbox.com #file-sharing
 dl.dropboxusercontent.com #file-sharing
@@ -8,8 +5,6 @@ download.sonarr.tv #streaming/kodi
 drift.com #retailer-chat
 driftt.com #retailer-chat
 dynupdate.no-ip.com #ddns
-ec-ns.sascdn.com #news
-edge.api.brightcove.com #streaming/news
 events.gfe.nvidia.com #gaming/nvidia
 external-lhr0-1.xx.fbcdn.net #social/facebook
 external-lhr1-1.xx.fbcdn.net #social/facebook
@@ -23,7 +18,6 @@ external-lhr7-1.xx.fbcdn.net #social/facebook
 external-lhr8-1.xx.fbcdn.net #social/facebook
 external-lhr9-1.xx.fbcdn.net #social/facebook
 fbcdn-creative-a.akamaihd.net #social/facebook
-forums.sonarr.tv #streaming/kodi
 g.live.com #ms
 g2a.com #gaming
 gcs.sc-cdn.net #social/snapchat & cdn
@@ -33,14 +27,12 @@ github.com #github
 github.io #github
 gravatar.com #websites/profile-pictures
 gsp1.apple.com #apple/iPhone
-hls.ted.com #streaming/ted
 hosts-file.net #hostfiles
 hostsfile.mine.nu #hostfiles
 hostsfile.org #hostfiles
 icanhazip.com #ip-resolvers
 icloud.com #apple/icloud
 imagesak.secureserver.net #websites/buttons //used by GoDaddy
-img.vidible.tv #streaming/kodi
 imgix.net #image-sharing
 imgs.xkcd.com #image-sharing
 intercom.io #retailer-chat
@@ -53,22 +45,12 @@ linkedin.com #social/linkedin
 linuxtracker.org #linux //used for torrenting linux distros
 login.aliexpress.com #shopping
 m.weeklyad.target.com #shopping
-meta-db-worker02.pop.ric.plex.bz #streaming/plex
-meta.plex.bz #streaming/plex
-meta.plex.tv #streaming/plex
 motherless.com #adult
-my.plexapp.com #streaming/plex
 newgrounds.com #file-sharing
-nine.plugins.plexapp.com #streaming/plex
 no-ip.com #ddns
-node.plexapp.com #streaming/plex
 ns1.dropbox.com #file-sharing
 ns2.dropbox.com #file-sharing
-o1.email.plex.tv #streaming/plex
-o2.sg0.plex.tv #streaming/plex
 ocsp.apple.com #apple/misc
-om.cbsi.com #news
-openload.co #streaming/kodi
 pentest-tools.com #misc/pentesting
 pgl.yoyo.org #hostfiles
 phncdn.com #adult
@@ -76,26 +58,15 @@ pinterest.com #social/pinterest
 piratecams.com #adult
 placehold.it #image-sharing
 placeholdit.imgix.net #image-sharing
-players.brightcove.net #streaming/news
-plex.tv #streaming/plex
-proxy.plex.bz #streaming/plex
-proxy.plex.tv #streaming/plex
-proxy02.pop.ord.plex.bz #streaming/plex
-pubsub.plex.bz #streaming/plex
-pubsub.plex.tv #streaming/plex
 push.services.mozilla.com #mozilla
-rapidvideo.com #streaming/kodi
 raw.githubusercontent.com #github
 reddit.com #social/reddit
 rover.ebay.com #shopping
 s.marketwatch.com #misc //stock market
 s.shopify.com #shopping
-s.youtube.com #google/youtube
-s.ytimg.com #google/youtube
 s1.symcb.com #ms/skype
 s1.wp.com #websites/wordpress
 s2.symcb.com #ms/skype
-s2.youtube.com #google/youtube
 s3.amazonaws.com #hostfiles //used for https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 s3.symcb.com #ms/skype
 s4.symcb.com #ms/skype
@@ -103,16 +74,9 @@ s5.symcb.com #ms/skype
 sa.symcb.com #ms/skype
 scontent-lhr3-1.xx.fbcdn.net #social/facebook
 secure.avangate.com #shopping
-secure.brightcove.com #streaming/news
 secure.surveymonkey.com #misc
-services.sonarr.tv #streaming/kodi
 sharepoint.com #ms/office
-skyhook.sonarr.tv #streaming/kodi
 someonewhocares.org #hostfiles
-spclient.wg.spotify.com #streaming/spotify
-ssl.p.jwpcdn.com #streaming/plex
-staging.plex.tv #streaming/plex
-status.plex.tv #streaming/plex
 support.coinbase.com #cryptocurrency
 support.mozilla.org #mozilla
 surveymonkey.com #misc
@@ -121,13 +85,8 @@ sysctl.org #hostfiles
 s{1..5}.symcb.com #ms/skype
 tags.literotica.com #adult
 tawk.to #retailer-chat
-tedcdn.com #streaming/ted
-themoviedb.com #streaming/plex
 thepiratebay.org #torrents
-thetvdb.com #streaming/plex
 tomshardware.com #misc
-tvdb2.plex.tv #streaming/plex
-tvthemes.plexapp.com #streaming/plex
 twimg.com #social/twitter
 twitter.com #social/twitter
 unsplash.com #image-sharing
@@ -136,7 +95,6 @@ v.firebog.net #hostfiles
 v.shopify.com #shopping
 weeklyad.target.com #shopping
 weeklyad.target.com.edgesuite.net #shopping
-widget-cdn.rpxnow.com #news/fox
 wikipedia.org #misc
 winhelp2002.mvps.org #hostfiles
 wordpress.com #websites/wordpress
@@ -153,15 +111,10 @@ www.icloud.com #apple/icloud
 www.jdoqocy.com #referal
 www.linuxtracker.org #torrent
 www.literotica.com #adult
-www.netflix.com #streaming
 www.no-ip.com #ddns
 www.ojrq.net #referal
 www.oocities.org #misc
-www.plex.tv #streaming/plex
-www.rapidvideo.com #streaming/rapidvideo
 www.solaredge.com #misc
 www.synology.com #nas
 www.twitter.com #social/twitter
-www.youtube-nocookie.com #streaming/youtube
 yahoo.com #misc
-yt3.ggpht.com #streaming/youtube
