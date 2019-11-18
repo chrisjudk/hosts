@@ -1,28 +1,5 @@
-display.ugc.bazaarvoice.com #retailer-chat
-dl.dropbox.com #file-sharing
-dl.dropboxusercontent.com #file-sharing
-download.sonarr.tv #streaming/kodi
-drift.com #retailer-chat
-driftt.com #retailer-chat
-dynupdate.no-ip.com #ddns
-events.gfe.nvidia.com #gaming/nvidia
-external-lhr0-1.xx.fbcdn.net #social/facebook
-external-lhr1-1.xx.fbcdn.net #social/facebook
-external-lhr10-1.xx.fbcdn.net #social/facebook
-external-lhr2-1.xx.fbcdn.net #social/facebook
-external-lhr3-1.xx.fbcdn.net #social/facebook
-external-lhr4-1.xx.fbcdn.net #social/facebook
-external-lhr5-1.xx.fbcdn.net #social/facebook
-external-lhr6-1.xx.fbcdn.net #social/facebook
-external-lhr7-1.xx.fbcdn.net #social/facebook
-external-lhr8-1.xx.fbcdn.net #social/facebook
-external-lhr9-1.xx.fbcdn.net #social/facebook
-fbcdn-creative-a.akamaihd.net #social/facebook
 g.live.com #ms
 g2a.com #gaming
-gcs.sc-cdn.net #social/snapchat & cdn
-gfwsl.geforce.com #gaming/nvidia
-giphy.com #image-sharing
 github.com #github
 github.io #github
 gravatar.com #websites/profile-pictures
@@ -33,9 +10,6 @@ hostsfile.org #hostfiles
 icanhazip.com #ip-resolvers
 icloud.com #apple/icloud
 imagesak.secureserver.net #websites/buttons //used by GoDaddy
-imgix.net #image-sharing
-imgs.xkcd.com #image-sharing
-intercom.io #retailer-chat
 itunes.apple.com #apple/itunes
 jquery.com #websites/scripts
 jsdelivr.net #websites/scripts
@@ -46,18 +20,12 @@ linuxtracker.org #linux //used for torrenting linux distros
 login.aliexpress.com #shopping
 m.weeklyad.target.com #shopping
 motherless.com #adult
-newgrounds.com #file-sharing
-no-ip.com #ddns
-ns1.dropbox.com #file-sharing
-ns2.dropbox.com #file-sharing
 ocsp.apple.com #apple/misc
 pentest-tools.com #misc/pentesting
 pgl.yoyo.org #hostfiles
 phncdn.com #adult
 pinterest.com #social/pinterest
 piratecams.com #adult
-placehold.it #image-sharing
-placeholdit.imgix.net #image-sharing
 push.services.mozilla.com #mozilla
 raw.githubusercontent.com #github
 reddit.com #social/reddit
@@ -72,7 +40,6 @@ s3.symcb.com #ms/skype
 s4.symcb.com #ms/skype
 s5.symcb.com #ms/skype
 sa.symcb.com #ms/skype
-scontent-lhr3-1.xx.fbcdn.net #social/facebook
 secure.avangate.com #shopping
 secure.surveymonkey.com #misc
 sharepoint.com #ms/office
@@ -84,12 +51,10 @@ synology.com #nas
 sysctl.org #hostfiles
 s{1..5}.symcb.com #ms/skype
 tags.literotica.com #adult
-tawk.to #retailer-chat
 thepiratebay.org #torrents
 tomshardware.com #misc
 twimg.com #social/twitter
 twitter.com #social/twitter
-unsplash.com #image-sharing
 updates.push.services.mozilla.com #mozilla
 v.firebog.net #hostfiles
 v.shopify.com #shopping
@@ -111,7 +76,6 @@ www.icloud.com #apple/icloud
 www.jdoqocy.com #referal
 www.linuxtracker.org #torrent
 www.literotica.com #adult
-www.no-ip.com #ddns
 www.ojrq.net #referal
 www.oocities.org #misc
 www.solaredge.com #misc
