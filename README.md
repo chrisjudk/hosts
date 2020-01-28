@@ -2,8 +2,12 @@
 
 [![Github file size](https://img.shields.io/github/size/chrisjudk/hosts/hosts.svg?label=hosts+file+size)](github.com/chrisjudk/hosts/blob/master/hosts)
 [![License](https://img.shields.io/github/license/chrisjudk/hosts.svg)](https://github.com/chrisjudk/hosts/blob/master/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/chrisjudk/hosts.svg)](https://github.com/chrisjudk/chrisjudk/commits/master)
-[![GitHub commit activity the past year](https://img.shields.io/github/commit-activity/y/chrisjudk/hosts.svg)](https://github.com/chrisjudk/hosts/graphs/commit-activity)
+[![GitHub contributors](https://img.shields.io/github/contributors/chrisjudk/hosts.svg)](/../../graphs/contributors)
+[![GitHub last commit](https://img.shields.io/github/last-commit/chrisjudk/hosts.svg)](/../../commits/master)
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/chrisjudk/hosts.svg)
+[![GitHub issues](https://img.shields.io/github/issues/chrisjudk/hosts.svg)](/../../issues)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/chrisjudk/hosts.svg?colorB=red)](/../../issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/chrisjudk/hosts.svg)](/../../graphs/commit-activity)
 
 This is a list of hosts I have found to be used for ads, malware, etc.
 ## Installation
