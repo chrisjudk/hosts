@@ -1,9 +1,5 @@
-g2a.com #gaming
 gravatar.com #websites/profile-pictures
 gsp1.apple.com #apple/iPhone
-hosts-file.net #hostfiles
-hostsfile.mine.nu #hostfiles
-hostsfile.org #hostfiles
 icanhazip.com #ip-resolvers
 icloud.com #apple/icloud
 imagesak.secureserver.net #websites/buttons //used by GoDaddy
@@ -19,7 +15,6 @@ m.weeklyad.target.com #shopping
 motherless.com #adult
 ocsp.apple.com #apple/misc
 pentest-tools.com #misc/pentesting
-pgl.yoyo.org #hostfiles
 phncdn.com #adult
 pinterest.com #social/pinterest
 piratecams.com #adult
@@ -29,36 +24,24 @@ reddit.com #social/reddit
 rover.ebay.com #shopping
 s.marketwatch.com #misc //stock market
 s.shopify.com #shopping
-s1.symcb.com #ms/skype
 s1.wp.com #websites/wordpress
-s2.symcb.com #ms/skype
-s3.amazonaws.com #hostfiles //used for https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-s3.symcb.com #ms/skype
-s4.symcb.com #ms/skype
-s5.symcb.com #ms/skype
-sa.symcb.com #ms/skype
 secure.avangate.com #shopping
 secure.surveymonkey.com #misc
 sharepoint.com #ms/office
-someonewhocares.org #hostfiles
 support.coinbase.com #cryptocurrency
 support.mozilla.org #mozilla
 surveymonkey.com #misc
 synology.com #nas
-sysctl.org #hostfiles
-s{1..5}.symcb.com #ms/skype
 tags.literotica.com #adult
 thepiratebay.org #torrents
 tomshardware.com #misc
 twimg.com #social/twitter
 twitter.com #social/twitter
 updates.push.services.mozilla.com #mozilla
-v.firebog.net #hostfiles
 v.shopify.com #shopping
 weeklyad.target.com #shopping
 weeklyad.target.com.edgesuite.net #shopping
 wikipedia.org #misc
-winhelp2002.mvps.org #hostfiles
 wordpress.com #websites/wordpress
 wp.com #websites/wordpress
 ws.audioscrobbler.com #lastfm

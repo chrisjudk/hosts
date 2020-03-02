@@ -2,3 +2,10 @@ apps.skype.com
 pricelist.skype.com
 skype.com
 ui.skype.com
+s1.symcb.com
+s2.symcb.com
+s3.symcb.com
+s4.symcb.com
+s5.symcb.com
+sa.symcb.com
+s{1..5}.symcb.com
