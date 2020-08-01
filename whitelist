@@ -1,5 +1,3 @@
-ipv4.icanhazip.com
-sls.update.microsoft.com.akadns.net
 0.client-channel.google.com
 1drv.com
 2.android.pool.ntp.org
@@ -146,6 +144,7 @@ imgix.net
 imgs.xkcd.com
 instantmessaging-pa.googleapis.com
 intercom.io
+ipv4.icanhazip.com
 ipv6.msftncsi.com
 itunes.apple.com
 j.mp
@@ -243,6 +242,7 @@ settings-win.data.microsoft.com
 sharepoint.com
 skyhook.sonarr.tv
 skype.com
+sls.update.microsoft.com.akadns.net
 someonewhocares.org
 spclient.wg.spotify.com
 ssl.google-analytics.com
