@@ -255,7 +255,6 @@
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 settings-sandbox.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
-0.0.0.0 sls.update.microsoft.com.akadns.net
 0.0.0.0 smetrics.bestbuy.com
 0.0.0.0 sn.moatads.com
 0.0.0.0 spynet2.microsoft.com
