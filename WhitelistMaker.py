@@ -14,19 +14,25 @@ except ImportError as e:
 path = os.getcwd()
 catPath = path + "/whitelist-categories/"
 categories = os.listdir(catPath)
-
+temp = []
 options = []
 for cat in categories:
-    options.append(cat)
+    if os.path.isfile(catPath+cat):
+        options.append(cat)
+    else:
+        temp.clear()
+        for file in os.listdir(catPath + cat + "\"):
+            temp.append(file)
+        options.append(temp)
 options.append("[a] All")
-options.append("[q] Quit")
+options.append("Quit")
 
 quit = False
 selections = []
 while quit == False:
     index = TerminalMenu(options).show()
     option = options[index]
-    
+
     if(option == "[q] Quit"):
         quit = True
     elif(option =="[a] All"):
