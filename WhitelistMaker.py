@@ -1,10 +1,12 @@
 try:
     import os
+    import sys
     from simple_term_menu import TerminalMenu
 except ImportError as e:
     print("There was an error while importing required modules!",
     end="\n================================================================\n")
     print(f"{e.name} is a required package!")
+    sys.exit(69)
 ##################################################################################
 # Main menu builder
 path = os.getcwd()
