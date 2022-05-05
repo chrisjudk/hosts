@@ -20,7 +20,7 @@ options.append("Quit")
 
 menu = TerminalMenu(options)
 quit = False
-while quit == false:
+while quit == False:
     index = menu.show()
     option = options[index]
 
