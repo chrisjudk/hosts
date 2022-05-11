@@ -8,9 +8,11 @@ This is a list of hosts I have found to be used for ads, malware, etc.
 ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/chrisjudk/hosts.svg)
 #### Contributions & Forks
 [![GitHub contributors](https://img.shields.io/github/contributors/chrisjudk/hosts.svg)](/../../graphs/contributors)
+[![GitHub forks](https://img.shields.io/github/forks/chrisjudk/hosts)](https://github.com/chrisjudk/hosts/network/members)
+#### Commits
 [![GitHub last commit](https://img.shields.io/github/last-commit/chrisjudk/hosts.svg)](/../../commits/master)
 [![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/chrisjudk/hosts.svg)](/../../graphs/commit-activity)
-[![GitHub forks](https://img.shields.io/github/forks/chrisjudk/hosts)](https://github.com/chrisjudk/hosts/network/members)
+[![GitHub commits since last release](https://img.shields.io/github/commits-since/chrisjudk/hosts/latest)](https://github.com/chrisjudk/hosts/releases)
 #### Issues
 [![GitHub issues](https://img.shields.io/github/issues/chrisjudk/hosts.svg)](/../../issues)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/chrisjudk/hosts.svg?colorB=red)](/../../issues?q=is%3Aissue+is%3Aclosed)
