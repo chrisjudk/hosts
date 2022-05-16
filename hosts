@@ -332,3 +332,8 @@
 0.0.0.0 z.moatads.com
 0.0.0.0 zergnet.com
 0.0.0.0 ziffdavis-d.openx.net
+0.0.0.0 segment.io
+0.0.0.0 api.segment.io
+0.0.0.0 cdn.segment.io
+0.0.0.0 api2.segment.io
+0.0.0.0 registry.segment.io
