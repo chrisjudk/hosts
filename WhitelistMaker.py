@@ -43,13 +43,13 @@ while quit == False:
     elif(option == "[b] Build"):
         quit = True
         buildwl()
-    elif(option =="[a] All"):
+    elif(option == "[a] All"):
         for o in options:
-            if(o != "[a] All" and o != "[q] Quit"):
+            if(o != "[b] Build" and o != "[a] All" and o != "[q] Quit"):
                 selections.append(o)
                 options.remove(o)
+
         print(selections)
-        quit = True
     elif(os.path.isdir(catPath + option)):
         temp.clear()
         temp = os.listdir(catPath + option + "/")
