@@ -46,6 +46,8 @@
 0.0.0.0 api.opencandy.com
 0.0.0.0 api.pinion.gg
 0.0.0.0 api.recommendedsw.com
+0.0.0.0 api.segment.io
+0.0.0.0 api2.segment.io
 0.0.0.0 app-measurement.com
 0.0.0.0 apple.comscoreresearch.com
 0.0.0.0 apps.skype.com
@@ -97,6 +99,7 @@
 0.0.0.0 cdn.pinion.gg
 0.0.0.0 cdn.ppdownload.com
 0.0.0.0 cdn.riceateastcach.us
+0.0.0.0 cdn.segment.io
 0.0.0.0 cdn.shyapotato.us
 0.0.0.0 cdn.solimba.com
 0.0.0.0 cdn.tuto4pc.com
@@ -240,6 +243,7 @@
 0.0.0.0 rad.msn.com
 0.0.0.0 rainbowanalytics-a.wpdigital.net
 0.0.0.0 redir.metaservices.microsoft.com
+0.0.0.0 registry.segment.io
 0.0.0.0 reports.wes.df.telemetry.microsoft.com
 0.0.0.0 s.gateway.messenger.live.com
 0.0.0.0 s.yieldmo.com
@@ -252,11 +256,13 @@
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 seen.pinion.gg
 0.0.0.0 segment.do-analytics.com
+0.0.0.0 segment.io
 0.0.0.0 services.wes.df.telemetry.microsoft.com
 0.0.0.0 settings-sandbox.data.microsoft.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 smetrics.bestbuy.com
 0.0.0.0 sn.moatads.com
+0.0.0.0 snapsex.club
 0.0.0.0 spynet2.microsoft.com
 0.0.0.0 spynetalt.microsoft.com
 0.0.0.0 sqm.df.telemetry.microsoft.com
@@ -332,9 +338,3 @@
 0.0.0.0 z.moatads.com
 0.0.0.0 zergnet.com
 0.0.0.0 ziffdavis-d.openx.net
-0.0.0.0 segment.io
-0.0.0.0 api.segment.io
-0.0.0.0 cdn.segment.io
-0.0.0.0 api2.segment.io
-0.0.0.0 registry.segment.io
-0.0.0.0 snapsex.club
