@@ -25,14 +25,12 @@ path = os.getcwd()
 catPath = path + "/whitelist-categories/"
 categories = os.listdir(catPath)
 temp = []
-options = []
-for cat in categories:
-    options.append(cat)
+selections = []
+options = categories
 options.append("[a] All")
 options.append("[q] Quit")
 options.append("[b] Build")
 quit = False
-selections = []
 while quit == False:
     exit = False
     index = TerminalMenu(options).show()
@@ -44,10 +42,8 @@ while quit == False:
         quit = True
         buildwl()
     elif(option == "[a] All"):
-        for o in options:
-            if(o != "[b] Build" and o != "[a] All" and o != "[q] Quit"):
-                selections.append(o)
-                options.remove(o)
+        selections = os.listdir(catPath)
+        options = ["[q] Quit","[b] Build"]
 
         print(selections)
     elif(os.path.isdir(catPath + option)):
