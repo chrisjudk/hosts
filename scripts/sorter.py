@@ -20,14 +20,16 @@ files = os.listdir(catdir)
 def sorter(rootDir, filesList):
 	for fn in filesList:
 		lines = []
-		with open(rootDir.join(fn), 'r') as file:
+		with open(os.path.join(rootDir,fn), 'r') as file:
 			for line in file:
 				lines.append(line)
 		lines.sort()
-		with open(rootDir.join(fn), 'w') as file:
+		with open(os.path.join(rootDir,fn), 'w') as file:
 			for line in lines:
 				file.writelines(line)
 
 ############################################################
 # sort files
 sorter(rootDir=catdir, filesList = files)
+files=["hosts", "whitelist"]
+sorter(rootDir=path, filesList = files)
