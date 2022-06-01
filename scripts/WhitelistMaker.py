@@ -11,8 +11,10 @@ except ImportError as e:
 
 ##################################################################################
 # Functions
-def buildwl():
-    with open(path + "/customWhitelist", "w") as out:
+def buildwl(root_dir):
+    if not root_dir[-1] == "/":
+        root_dir = root_dir.join("/")
+    with open(root_dir + "customWhitelist", "w") as out:
         for file in selections:
             with open(catPath + file,"r") as f:
                 lines = f.readlines()
@@ -21,8 +23,8 @@ def buildwl():
         print(f"File saved to: {os.path.realpath(out.name)}")
 ##################################################################################
 # Main menu builder
-path = os.getcwd()
-catPath = path + "/whitelist-categories/"
+root = os.getcwd() + "/../"
+catPath = root + "/whitelist-categories/"
 categories = os.listdir(catPath)
 temp = []
 selections = []
@@ -40,7 +42,7 @@ while quit == False:
         quit = True
     elif(option == "[b] Build"):
         quit = True
-        buildwl()
+        buildwl(root)
     elif(option == "[a] All"):
         selections = os.listdir(catPath)
         options = ["[q] Quit","[b] Build"]
