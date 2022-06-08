@@ -1,4 +1,6 @@
 apps.skype.com
+broadcast.skype.com
+mlccdn.blob.core.windows.net
 pricelist.skype.com
 s1.symcb.com
 s2.symcb.com
@@ -8,4 +10,5 @@ s5.symcb.com
 sa.symcb.com
 skype.com
 s{1..5}.symcb.com
+teams.microsoft.com
 ui.skype.com
